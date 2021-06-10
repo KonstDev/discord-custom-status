@@ -1,3 +1,3 @@
 # discord-custom-status
 
-![Hax](https://imgur.com/a/CIWaIAT)
+![Hax](https://i.imgur.com/qvp0h8A.gif)

@@ -3,7 +3,7 @@ import time
 
 client_id = "your_cliend_id"
 
-status = 'Github: @KonstDev/discord-custom-status'
+status = 'Github: KonstDev/discord-custom-status'
 
 RPC = Presence(client_id)
 RPC.connect()

@@ -1,2 +1,3 @@
-#discord-custom-status
-![HAX] https://imgur.com/a/CIWaIAT
+# discord-custom-status
+
+![Hax] (https://imgur.com/a/CIWaIAT)

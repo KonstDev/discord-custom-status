@@ -1,7 +1,7 @@
 from pypresence import Presence
 import time
 
-client_id = "your_cliend_id"
+client_id = "your_client_id"
 
 status = 'Github: KonstDev/discord-custom-status'
 
